@@ -7,5 +7,7 @@
 ### Шаг 1: Клонирование репозитория
 
 ```bash
-git clone [https://github.com/yourusername/yourproject.git](https://github.com/yourusername/yourproject.git)
-cd yourproject
+git clone https://github.com/nobody-75/FinanceTracker.git
+cd FinanceTracker
+
+### Шаг 1
